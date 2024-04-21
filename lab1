@@ -1,1 +1,3 @@
 lab1_
+last_name = input("Введіть ваше прізвище: ")
+    print("Привіт, " + last_name)
